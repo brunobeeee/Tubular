@@ -1,3 +1,5 @@
+  Note: I created this fork because the NewPipe v0.27.7 implements a hotfix that Tubular hasn't. Due to this Tubular only plays YouTube videos in 360p despite this being fixed in upstream. Don't expect this fork to be maintained for long, but probably at least as long as Tubular hasn't implementet the hotfix.
+
 <h1 align="center"><b>Tubular</b></h2>
 <h4 align="center">A fork of <a href="https://newpipe.net/">NewPipe</a> (<a href="https://github.com/TeamNewPipe/NewPipe/">Github</a>) that implements <a href="https://sponsor.ajay.app/">SponsorBlock</a> (<a href="https://github.com/ajayyy/SponsorBlock/">Github</a>) and <a href="https://www.returnyoutubedislike.com/">ReturnYouTubeDislike</a> (<a href="https://github.com/Anarios/return-youtube-dislike/">Github</a>).</h4>
 <p align="center">Download the APK <a href="https://github.com/polymorphicshade/Tubular/releases/latest">here</a> or get it on F-Droid <a href="https://f-droid.org/packages/org.polymorphicshade.tubular/">here</a>.</p>
